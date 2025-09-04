@@ -4,7 +4,9 @@ answer：开发一个大学生消费系统
 answer：记录自己平时的消费记录，了解自己的消费习惯，看看自己一个月在大学
         生活费的开销，帮助自己更好的消费决策
 用什么开发
-answer：初始的想法用python的tkinter库和excel联合开发
-        excel负责保存数据，tkinter主要进行GUI开发
+answer：初始的想法用python的tkinter库、pandas、seasns
 GUI应该实现怎样的功能：
-answer：
+answer：设置预算，添加消费记录，修改消费记录，删除消费记录，自动计算余额，自动计算，可视化，每月总结
+什么是自动计算：
+answer：比如餐饮，分早餐、晚餐等，可以自动累加金额，不需要手动计算
+
